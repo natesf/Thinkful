@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="140px" height="140px" viewBox="0 0 140 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>NODE-001</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="NODE-001" sketch:type="MSArtboardGroup">
+            <polygon id="Polygon-4" fill="#78CC5A" sketch:type="MSShapeGroup" points="69.3322518 15 117.664504 41.5434783 117.664504 99.4565217 69.3322518 126 21 99.4565217 21 41.5434783 "></polygon>
+            <path d="M78.0447761,58.8157895 L78.0447761,65.3881579 C78.0447761,65.3881579 79.6256127,66.2456342 80.416031,66.6743724 C86.4538938,69.9494258 98.5296194,76.4995326 98.5296194,76.4995326 L98.5296194,83.0538049 L78.0447761,71.9605263 L78.0447761,91.6776316 L103.641791,105.552632 L103.641791,98.9802632 L83.1641791,88.0263158 L83.1641791,81.3079304 L103.641791,92.4078947 L103.641791,72.6907895 L78.0447761,58.8157895 Z" id="Path-31" fill="#FFFFFF" sketch:type="MSShapeGroup" transform="translate(90.843284, 82.184211) scale(-1, 1) translate(-90.843284, -82.184211) "></path>
+            <path d="M35.6268657,72.6907895 L61.2238806,58.8157895 L61.2238806,65.3881579 L45.8507464,73.6999969 L45.8507464,93.5000012 L56.1044776,88.0263158 L56.1044776,74.8815789 L61.2238806,71.9605263 L61.2238806,91.6776316 L40.7462687,102.631579 L40.7462687,76.3015663 L35.6268657,79.2631579 L35.6268657,72.6907895 Z" id="Path-31" fill="#FFFFFF" sketch:type="MSShapeGroup" transform="translate(48.425373, 80.723684) scale(-1, 1) translate(-48.425373, -80.723684) "></path>
+        </g>
+    </g>
+</svg>

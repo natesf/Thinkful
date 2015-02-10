@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="140px" height="140px" viewBox="0 0 140 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>ROR-002</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="ROR-002" sketch:type="MSArtboardGroup">
+            <path d="M88.2363281,53.3515625 L69,109 L114,53.3515625 L88.2363281,53.3515625 Z" id="Path-86" fill="#DB2E2F" sketch:type="MSShapeGroup"></path>
+            <path d="M80.7506652,34.0913372 L82.0880429,65.1383171 L107.575519,34.0913372 L80.7506652,34.0913372 Z" id="Path-87" fill="#DB2E2F" sketch:type="MSShapeGroup" transform="translate(94.163092, 49.614827) rotate(51.000000) translate(-94.163092, -49.614827) "></path>
+            <path d="M20,50.8577944 L68.9936849,112.206409 L117.98737,50.8577944 L97.4783854,27 L37.0908203,27 L20,50.8577944 Z" id="Path-2" stroke="#EE4D4E" stroke-width="5" sketch:type="MSShapeGroup"></path>
+            <path d="M20,51.3043478 L118.813013,51.3043478" id="Path-3" stroke="#EE4D4E" stroke-width="5" sketch:type="MSShapeGroup"></path>
+            <path d="M98.0654297,27.2148438 L70.5422526,50.9680857 L68.2634766,50.9680857 L37.6972656,27.2148438" id="Path-4" stroke="#EE4D4E" stroke-width="5" sketch:type="MSShapeGroup"></path>
+            <path d="M88.5,53 L52,58.5 L69,109.5 L88.5,53 Z" id="Path-88" fill="#EE4D4E" sketch:type="MSShapeGroup"></path>
+            <path d="M95,29 L60,33.5 L70,51 L95,29 Z" id="Path-89" fill="#EE4D4E" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="140px" height="140px" viewBox="0 0 140 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>FEWD-001</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path id="path-1" d="M68.241434,64.5734553 L67.7802288,107.004333 L77.0043326,97.7802288 L83,113 L92.6853089,108.849153 L86.2284363,94.0905873 L98.2197712,93.6293821 L68.241434,64.5734553 Z"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="FEWD-001" sketch:type="MSArtboardGroup">
+            <rect id="Rectangle-75" fill="#3476FF" sketch:type="MSShapeGroup" x="23" y="30" width="94" height="46" rx="2"></rect>
+            <path d="M92.0000004,39.7867277 L103.278538,52.7867277 L92,65.7867277" id="Path-32" stroke="#FFFFFF" stroke-width="5" sketch:type="MSShapeGroup"></path>
+            <g id="Path-32">
+                <use stroke="none" fill="#1E2835" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+                <use stroke="#FFFFFF" stroke-width="3" fill="none" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>

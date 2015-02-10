@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="140px" height="140px" viewBox="0 0 140 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>SWIFT-001</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <ellipse id="path-1" cx="62.7785773" cy="112.778577" rx="2.7785773" ry="2.7785773"></ellipse>
+        <path id="path-2" d="M89,74 C90.3807119,74 91.5,72.8807119 91.5,71.5 C91.5,70.1192881 90.3807119,69 89,69 C87.6192881,69 86.5,70.1192881 86.5,71.5 C86.5,72.8807119 87.6192881,74 89,74 Z"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="SWIFT-001" sketch:type="MSArtboardGroup">
+            <path d="M34,114.557768 C34,116.214284 35.3380171,117.557155 36.993373,117.557155 L88.5637816,117.557155 C90.2169759,117.557155 91.5571546,116.209623 91.5571546,114.557768 L91.5571546,38.9993865 C91.5571546,37.3428711 90.2191375,36 88.5637816,36 L36.993373,36 C35.3401788,36 34,37.3475315 34,38.9993865 L34,114.557768 Z" id="Path-30" stroke="#3476FF" stroke-width="5" fill="#3476FF" sketch:type="MSShapeGroup"></path>
+            <g id="Oval-10">
+                <use fill="#FFFFFF" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+                <use fill="none" xlink:href="#path-1"></use>
+            </g>
+            <path d="M71.5,75.5089949 C71.5,77.1608814 72.8505957,78.5 74.4992106,78.5 L103.500789,78.5 C105.157208,78.5 106.5,77.1572461 106.5,75.5089949 L106.5,25.4910051 C106.5,23.8391186 105.149404,22.5 103.500789,22.5 L74.4992106,22.5 C72.8427923,22.5 71.5,23.8427539 71.5,25.4910051 L71.5,75.5089949 Z" id="Path-29" stroke="#FFFFFF" stroke-width="3" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            <path d="M73,75.0030905 C73,76.1059532 73.8892617,77 75.0017433,77 L102.998257,77 C104.103789,77 105,76.1023238 105,75.0030905 L105,25.9969095 C105,24.8940468 104.110738,24 102.998257,24 L75.0017433,24 C73.896211,24 73,24.8976762 73,25.9969095 L73,75.0030905 Z" id="Path-29" fill="#78CC5A" sketch:type="MSShapeGroup"></path>
+            <g id="Oval-10">
+                <use fill="#FFFFFF" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-2"></use>
+                <use fill="none" xlink:href="#path-2"></use>
+            </g>
+        </g>
+    </g>
+</svg>

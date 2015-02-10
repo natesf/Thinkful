@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="140px" height="140px" viewBox="0 0 140 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>DATA-001</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="DATA-001" sketch:type="MSArtboardGroup">
+            <rect id="Rectangle-path" fill="#F9D04B" sketch:type="MSShapeGroup" x="21" y="58" width="20" height="54"></rect>
+            <rect id="Rectangle-path" fill="#EE4D4E" sketch:type="MSShapeGroup" x="47.0302267" y="54" width="20" height="57.8414013"></rect>
+            <rect id="Rectangle-path" fill="#78CC5A" sketch:type="MSShapeGroup" x="73" y="28.8350318" width="20" height="82.6035032"></rect>
+            <rect id="Rectangle-path" fill="#3476FF" sketch:type="MSShapeGroup" x="99" y="36" width="20" height="75.8414013"></rect>
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(26.000000, 43.000000)" stroke-width="3">
+                <circle id="Oval-13" stroke="#FFFFFF" fill="#1E2835" sketch:type="MSShapeGroup" cx="31" cy="28" r="4.5"></circle>
+                <circle id="Oval-13" stroke="#FFFFFF" fill="#1E2835" sketch:type="MSShapeGroup" cx="57" cy="4.5" r="4.5"></circle>
+                <circle id="Oval-13" stroke="#FFFFFF" fill="#1E2835" sketch:type="MSShapeGroup" cx="83" cy="19" r="4.5"></circle>
+                <circle id="Oval-13" stroke="#FFFFFF" fill="#1E2835" sketch:type="MSShapeGroup" cx="5" cy="31.6367834" r="4.5"></circle>
+                <path d="M5,31.5 L31,28 L57,4.5 L83,19" id="Path-35" stroke="#1E2835" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>
